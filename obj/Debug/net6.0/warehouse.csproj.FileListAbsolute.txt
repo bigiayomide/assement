@@ -1,0 +1,15 @@
+/Users/ayomidefajobi/warehouse/bin/Debug/net6.0/warehouse
+/Users/ayomidefajobi/warehouse/bin/Debug/net6.0/warehouse.deps.json
+/Users/ayomidefajobi/warehouse/bin/Debug/net6.0/warehouse.runtimeconfig.json
+/Users/ayomidefajobi/warehouse/bin/Debug/net6.0/warehouse.dll
+/Users/ayomidefajobi/warehouse/bin/Debug/net6.0/warehouse.pdb
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/warehouse.csproj.AssemblyReference.cache
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/warehouse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/warehouse.AssemblyInfoInputs.cache
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/warehouse.AssemblyInfo.cs
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/warehouse.csproj.CoreCompileInputs.cache
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/warehouse.dll
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/refint/warehouse.dll
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/warehouse.pdb
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/warehouse.genruntimeconfig.cache
+/Users/ayomidefajobi/warehouse/obj/Debug/net6.0/ref/warehouse.dll
