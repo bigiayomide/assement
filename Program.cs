@@ -10,8 +10,6 @@ string skuSearch = "104755";
 string state = "IN";
 int totalsum = 0;
 
-int lineLengthsku = warehouse.First().Count();
-
 var data = warehousesku.FirstOrDefault(a => a[0].Equals(skuSearch))
             .Skip(1).Select((x, y) => new { Value = x, Index = y }).Where(x => x.Value.Trim() != "0");
 
